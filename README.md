@@ -10,6 +10,7 @@
 [competition source](https://aidea-web.tw/topic/de144f63-cd15-40b8-81e6-82db5636d598)  
 [code](https://www.kaggle.com/code/moore0403/aidea-aa)  
 
-## 玉山人工智慧公開挑戰賽2021冬季賽 - 信用卡消費類別推薦
+## 玉山人工智慧公開挑戰賽2021冬季賽 - 信用卡消費類別推薦  
+[competition source](https://tbrain.trendmicro.com.tw/Competitions/Details/18)  
 [preprocessing](https://www.kaggle.com/code/moore0403/t-brain-cc-preprocess)  
 [traning](https://www.kaggle.com/code/moore0403/t-brain-cc-competition/edit)  
